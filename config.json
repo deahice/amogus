@@ -1,0 +1,33 @@
+{
+  "default_prefix" : "O",
+ "owner" :  ["875558295614668820" , "908987743672086559" ],
+ "DB": "mongodb+srv://mailbot:ainsetano2015@cluster0.yqnpk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+"spotifyID" : "5012c6ffb73d466698481ee0e2c6805e",
+"spotifySecret": "2d46d612849443d89cc5b99b846fc5dd",
+"nodes":[
+
+
+    {
+     "host": "lavalink.eu", 
+     "port": 2333, 
+      "password": "Raccoon", 
+      "secure": false
+
+
+
+    },
+      {
+     "host": "lavalink.eu",
+      "port": 2333, 
+      "password": "Raccoon", 
+      "secure": false
+    },
+      {
+     "host": "lavalink.eu",
+      "port": 2333, 
+      "password": "Raccoon"
+        }
+
+    ]
+
+}
